@@ -1,0 +1,12 @@
+# Unneeded directories
+bin/
+data/
+config/
+temp/
+
+# in data/
+base/
+core/
+
+#Will track config, mods, saves, and some of data
+
